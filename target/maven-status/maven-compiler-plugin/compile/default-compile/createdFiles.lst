@@ -1,0 +1,5 @@
+com/example/springbootapirest/SpringBootApirestApplication.class
+com/example/springbootapirest/controller/PessoaController.class
+com/example/springbootapirest/model/Pessoa.class
+com/example/springbootapirest/repository/PessoaRepository.class
+com/example/springbootapirest/controller/DTO/PessoaRs.class
